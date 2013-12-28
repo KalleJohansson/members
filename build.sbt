@@ -1,4 +1,4 @@
-name := "playGotfibro"
+name := "members"
 
 version := "1.0-SNAPSHOT"
 
